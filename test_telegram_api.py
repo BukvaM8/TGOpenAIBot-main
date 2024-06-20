@@ -1,9 +1,9 @@
 import requests
 
 # Замените на ваш токен Telegram бота
-TOKEN = '7204156061:AAGm_oS-eMFNO6N9gop2OGUnDe14RaXgvsM'
+TOKEN = ''
 # Замените на ваш ID чата
-CHAT_ID = '944413137'
+CHAT_ID = ''
 MESSAGE = 'Тестовое сообщение'
 
 url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
